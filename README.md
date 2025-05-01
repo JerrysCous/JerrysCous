@@ -14,7 +14,7 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst or SOC Analyst posi
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.

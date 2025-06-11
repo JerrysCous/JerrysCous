@@ -15,7 +15,7 @@ I'm currently working on:
 - Learning how to implement AI in game worlds, with custom logic
 
 ## 📦 Featured Projects
-
+- [`CPP_Demo`](https://github.com/JerrysCous/CPP-Enemy-AI-Demo) - A simple C++ AI demo with polymorphism and state machines
 - [`Rocket2D`](https://github.com/JerrysCous/Rocket2D) – A 2D rocket platformer built in Unity
 - [`Event‑Dispatchers`](https://github.com/JerrysCous/Event-Dispatchers) – Simple implementation of UE5-style event dispatching and triggers
 
